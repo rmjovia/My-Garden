@@ -1,0 +1,5 @@
+{
+  "name": "My Garden",
+  "description": "An agricultural extension app for smallholder farmers in Uganda to get advice, optimize yields, monitor growth, and view season calendars.",
+  "requestFramePermissions": ["camera"]
+}
